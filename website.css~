@@ -1,0 +1,27 @@
+html, body {
+	font-family: sans-serif;
+	margin: 0;
+	width: 100%;
+	height:100%;
+	background-color: #ccffee
+}
+h1 {
+	font-family: CM Typewriter Asian, sans-serif;
+	font-size:75px;
+	text-align:center;
+	margin-bottom: 0px;
+}
+h2 {
+	font-family: AR PL UMing HK, sans-serif;
+	font-size: 30px;
+	margin-top: 5px;
+	text-align:center;
+}
+li {
+	display: inline;
+	margin-left: 45px;
+	margin-right: 45px;
+	font-family: CM Typewriter Cyrillic, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
